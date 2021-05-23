@@ -1,0 +1,9 @@
+[submodule "WAdapter"]
+	path = WAdapter
+	url = git@github.com:christian-nils/WAdapter.git
+[submodule "WDoorSensor"]
+	path = WDoorSensor
+	url = git@github.com:christian-nils/WDoorSensor
+[submodule "WThermostatBeca"]
+	path = WThermostatBeca
+	url = git@github.com:christian-nils/WThermostatBeca
